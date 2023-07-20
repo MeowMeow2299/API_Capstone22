@@ -1,5 +1,5 @@
 {
-  "name": "my-package",
+  "name": "new",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +29,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "babel src -d lib",
+    "build": "yarn run build",
     "test": "jest",
     "eject": "react-scripts eject"
   },
